@@ -1,6 +1,7 @@
 # text2pdf
 
 Simple nodejs CLI application that generates a PDF document from text.
+Made for [twindle issue #301](https://github.com/twindle-co/twindle/issues/301)
 
 # Installation
 Make sure you have [nodejs and npm installed](https://nodejs.org/en/download/)  
