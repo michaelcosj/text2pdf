@@ -15,4 +15,4 @@ Options:
 -p, --pdf: convert text to pdf (use quotes for multi word arguments)
 
 # Example:
-`node text2pdf -p "some text"`  generates a pdf file from the given text
+`node text2pdf -p "some text"`  generates a pdf document from the text
